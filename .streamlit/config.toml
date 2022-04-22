@@ -8,4 +8,4 @@ font="sans serif"
 [server]
 headless=true
 enableCORS=false
-port=5050
+port=$PORT
