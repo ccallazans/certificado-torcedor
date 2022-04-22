@@ -15,3 +15,4 @@ font='sans serif'\n\
 \n\
 " > ~/.streamlit/config.toml
 
+streamlit run src/app.py
