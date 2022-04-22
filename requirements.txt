@@ -1,3 +1,2 @@
 pdfkit
 streamlit
-wkhtmltopdf

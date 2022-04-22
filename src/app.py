@@ -1,8 +1,6 @@
 import pdfkit
 from jinja2 import Environment, select_autoescape, FileSystemLoader
-from datetime import date
 import streamlit as st
-from streamlit.components.v1 import iframe
 import streamlit.components.v1 as components
 
 st.set_page_config(layout="centered", page_icon="🎓", page_title="Certificado Torcedor do Bahia")
