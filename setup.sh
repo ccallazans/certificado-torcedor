@@ -3,7 +3,7 @@ mkdir -p ~/.streamlit/
 echo "\
 [server]\n\
 headless = true\n\
-port = 8501\n\
+port = 5988\n\
 enableCORS = false\n\
 \n\
 [theme]\n\
