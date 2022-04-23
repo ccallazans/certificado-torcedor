@@ -49,5 +49,5 @@ if submit:
     )
 
 components.html("""
-<html><p><a href="https://github.com/ccallazans/certificado-torcedor" target="_blank">Made by Ciro</a></p></html>
+<html><p><a href="https://github.com/ccallazans/" target="_blank">Made by Ciro</a></p></html>
 """)
