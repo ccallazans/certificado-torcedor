@@ -2,7 +2,7 @@
 Certificado Torcedor
 =============
 
-Brincadeira com a possível venda do Bahia ao Grupo City. Garanta seu certificado pra não ser chamado de modinha quando o Bahia City ganhar o Mundial.
+Brincadeira com a possível venda do Bahia ao Grupo City
 
 Preview
 -----
