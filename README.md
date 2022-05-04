@@ -2,8 +2,6 @@
 Certificado Torcedor
 =============
 
-Brincadeira com a possível venda do Bahia ao Grupo City
-
 Preview
 -----
 -   [Live Preview](http://certificadobahia.click:5988)
