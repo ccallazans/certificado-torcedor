@@ -4,7 +4,9 @@ Certificado Torcedor
 
 Preview
 -----
--   [Live Preview](http://certificadobahia.click:5988)
+
+<img src="assets/layout.png" width="380" title="Layout">
+<img src="assets/certificado.png" width="380" title="Certificado">
 
 
 Table of Contents
